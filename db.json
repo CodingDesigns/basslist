@@ -2,55 +2,55 @@
     "bassPlayer": [{
             "id": 1,
             "name": "Jaco Pastorius",
-            "image": "public/images/assets/jaco.jpg",
+            "image": "https://i.ibb.co/0hDgR1w/jaco.jpg",
             "style": "Jazz"
         },
         {
             "id": 2,
             "name": "Jimmy Haslip",
-            "image": "public/images/assets/jimmy.jpg",
+            "image": "https://i.ibb.co/FVLC9vP/jimmy.jpg",
             "style": "Jazz"
         },
         {
             "id": 3,
             "name": "Marcus Miller",
-            "image": "public/images/assets/marcus.jpg",
+            "image": "https://i.ibb.co/Kb1hdvq/marcus.jpg",
             "style": "Fusion"
         },
         {
             "id": 4,
             "name": "Kai Eckhardt",
-            "image": "public/images/assets/kai.jpg",
+            "image": "https://i.ibb.co/tKBvZZ1/kai.jpg",
             "style": "Fusion"
         },
         {
             "id": 5,
             "name": "Michael League",
-            "image": "public/images/assets/michael.jpg",
+            "image": "https://i.ibb.co/sCv8zPR/michael.jpg",
             "style": "Jazz"
         },
         {
             "id": 6,
             "name": "Victor Bailey",
-            "image": "public/images/assets/victor.jpg",
+            "image": "https://i.ibb.co/ZGyF1Kq/victor.jpg",
             "style": "Groove"
         },
         {
             "id": 7,
             "name": "Meshell N'degeocello",
-            "image": "public/images/assets/meshell.jpg",
+            "image": "https://i.ibb.co/xmTCJhS/meshell.jpg",
             "style": "Groove"
         },
         {
             "id": 8,
             "name": "Michel Alibo",
-            "image": "public/images/assets/michel.jpg",
+            "image": "https://i.ibb.co/9h4ftnQ/michel.jpg",
             "style": "Fusion"
         },
         {
             "id": 9,
             "name": "Randy Hope-Taylor",
-            "image": "public/images/assets/randy.jpg",
+            "image": "https://i.ibb.co/DfBBkQx/randy.jpg",
             "style": "Groove"
         }
     ]
