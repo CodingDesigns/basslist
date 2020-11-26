@@ -2,55 +2,55 @@
     "bassPlayer": [{
             "id": 1,
             "name": "Jaco Pastorius",
-            "image": "https://i.ibb.co/0hDgR1w/jaco.jpg",
+            "image": "https://i.ibb.co/b27wMzb/jaco.jpg",
             "style": "Jazz"
         },
         {
             "id": 2,
             "name": "Jimmy Haslip",
-            "image": "https://i.ibb.co/FVLC9vP/jimmy.jpg",
+            "image": "https://i.ibb.co/k8fTMyC/jimmy.jpg",
             "style": "Jazz"
         },
         {
             "id": 3,
             "name": "Marcus Miller",
-            "image": "https://i.ibb.co/Kb1hdvq/marcus.jpg",
+            "image": "https://i.ibb.co/S3snrm8/marcus.jpg",
             "style": "Fusion"
         },
         {
             "id": 4,
             "name": "Kai Eckhardt",
-            "image": "https://i.ibb.co/tKBvZZ1/kai.jpg",
+            "image": "https://i.ibb.co/CPhdMTm/kai.jpg",
             "style": "Fusion"
         },
         {
             "id": 5,
             "name": "Michael League",
-            "image": "https://i.ibb.co/sCv8zPR/michael.jpg",
+            "image": "https://i.ibb.co/mcxp6wG/michael.jpg",
             "style": "Jazz"
         },
         {
             "id": 6,
             "name": "Victor Bailey",
-            "image": "https://i.ibb.co/ZGyF1Kq/victor.jpg",
+            "image": "https://i.ibb.co/dbwDctQ/victor.jpg",
             "style": "Groove"
         },
         {
             "id": 7,
             "name": "Meshell N'degeocello",
-            "image": "https://i.ibb.co/xmTCJhS/meshell.jpg",
+            "image": "https://i.ibb.co/1GgNVf4/meshell.jpg",
             "style": "Groove"
         },
         {
             "id": 8,
             "name": "Michel Alibo",
-            "image": "https://i.ibb.co/9h4ftnQ/michel.jpg",
+            "image": "https://i.ibb.co/X7CkmvJ/michel.jpg",
             "style": "Fusion"
         },
         {
             "id": 9,
             "name": "Randy Hope-Taylor",
-            "image": "https://i.ibb.co/DfBBkQx/randy.jpg",
+            "image": "https://i.ibb.co/LDFFg9W/randy.jpg",
             "style": "Groove"
         }
     ]
